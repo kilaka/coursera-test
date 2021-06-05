@@ -1,0 +1,6 @@
+
+cd coursera-test/site
+browser-sync start --server --directory --files "*"
+
+git commit -a -m "commit message"
+git push
